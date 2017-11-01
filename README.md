@@ -14,3 +14,7 @@ Add a starting event id and the bot will monitor every event from this one.
 
 TO.DO:
 - Add a condition where if too many "event not detected" restart from the last one. 
+
+ADDED:
+1.0:
+- Country support
