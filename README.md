@@ -12,10 +12,11 @@ List new evenements off Nike APP
 
 Add a starting event id and the bot will monitor every event from this one. 
 
-TO.DO:
-- Add a condition where if too many "event not detected" restart from the last one. 
-
-ADDED:
+**ADDED:**
 1.0:
 - Country support
 - Proxy support
+
+***TO.DO:***
+- Add a condition where if too many "event not detected" restart from the last one. 
+- Saves events to a json file
