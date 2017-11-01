@@ -18,3 +18,4 @@ TO.DO:
 ADDED:
 1.0:
 - Country support
+- Proxy support
