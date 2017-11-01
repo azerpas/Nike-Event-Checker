@@ -1,5 +1,5 @@
 # Nike-Event-Checker
-List new evenements off Nike APP
+List new events off Nike APP
 
 Add a starting event id and the bot will monitor every event from this one. 
 
