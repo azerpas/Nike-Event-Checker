@@ -9,6 +9,7 @@ List new evenements off Nike APP
 - re
 - json
 - random
+- **pickle**
 
 Add a starting event id and the bot will monitor every event from this one. 
 
@@ -16,6 +17,8 @@ Add a starting event id and the bot will monitor every event from this one.
 1.0:
 - Country support
 - Proxy support
+1.1:
+- Added Pickle/txt support
 
 ***TO.DO:***
 - Add a condition where if too many "event not detected" restart from the last one. 
